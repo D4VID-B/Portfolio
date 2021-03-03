@@ -1,0 +1,62 @@
+﻿David Bakaleinik – Gameplay Programmer
+| Hünenberg See, Zug, Switzerland | 
++41 76 611 99 39
+davidbakaleinik@gmail.com | linkedin.com/in/davidbakaleinik
+
+
+Education
+Champlain College | Burlington, VT                                         Anticipated Graduation May 2021
+Pursuing a Bachelor of Science Degree in Game Programming
+* Completed Courses Include: Game Technology 1&2, Data Structures and Algorithms, Graphics Programming, Game Architecture, Game Production 1,2 & Capstone, 
+* Dean's List, Fall 2017, Spring 2018, Fall 2019 & Fall 2020
+* Member of Champlain Nerf Club, Fall 2018                
+
+
+Skills
+Programming Languages                
+* C#                         
+* C++                 
+* Java
+Game Engines        
+* Unity 
+* Unreal Engine 4                
+
+
+
+
+Foreign Languages:
+* Russian – Fluent                
+* English – Fluent
+* German – Basic
+
+
+Other Proficiencies:
+* Redmine-Pineapple
+* Agile/Scrum Models
+* Git & SVN
+
+
+Relevant Work Experience
+Fibrum | Moscow, Russia                                                                September 2018 – December 2018
+Remote QA Tester
+* Assisted with Fibrum's new Desirium VR Platform QA using the Oculus Go headset
+* Worked directly with the QA lead, to test various features of the platform and provide actionable feedback to improve the user experience; worked remotely from USA to complete weekly tasks
+
+
+Volunteer Experience
+International School of Zug and Luzern – Switzerland                                           May 2018 – June 2018
+Alumni Volunteer
+* Assisted AP Computer Science teacher with post-AP exam program consisting of three parts including learning Unity, various computer hardware, and Linux
+* Helped students navigate computer hardware and take first steps in learning Unity game engine
+
+
+Projects
+Toybox Nightmare | Champlain College, Montreal, Quebec, Canada                      January 2020 – May 2020
+Lead Gameplay Programmer
+* Single-player Third-Person shooter where you play as a 80s action hero toy overcoming enemies to reach the final boss 
+* Headed the creation of the player character and all associated systems in UE4
+* Worked closely with designers to implement a flexible and expandable weapons and pickup system
+SCORCH | Champlain College, Burlington, Vermont, USA [Remote]                      January 2021 – May 2021
+Gameplay Programmer
+* Single-Player FPS set in a Black & White, noir-themed time period. Use the shadows to avoid enemies and gather clues to unravel the story
+* Working closely with designers & artists to implement a set of tools and systems to aid development
